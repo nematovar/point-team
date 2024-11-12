@@ -157,6 +157,49 @@ margin-top: 36px;
 height: 440.87px;
 }
 
+/* google  */
+
+.google_logotips{
+    width: 100%;
+    height: 163px;
+    margin-top: 110px;
+    background: rgb(145, 203, 183);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.google_wrapper{
+    display: flex;
+    gap: 85px;
+    justify-content: center;
+    align-items: center;
+}
+
+.google_logo{
+    width: 170px;
+height: 57px;
+}
+
+.avast{
+    width: 170px;
+height: 54px;
+}
+
+.ebay{
+    width: 126px;
+height: 53px;
+}
+
+.paypal{
+    width: 170px;
+height: 43px;
+}
+
+.hubspot{
+    width: 170px;
+height: 48.9px;
+}
 
 
 
